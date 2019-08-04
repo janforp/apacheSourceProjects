@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="commons-dbcp2" />
+        <module name="commons-io" />
+        <module name="dubbo-spring-boot-actuator" />
+        <module name="dubbo-spring-boot-actuator-compatible" />
+        <module name="dubbo-spring-boot-auto-configure-consumer-sample" />
+        <module name="dubbo-spring-boot-auto-configure-provider-sample" />
+        <module name="dubbo-spring-boot-autoconfigure" />
+        <module name="dubbo-spring-boot-autoconfigure-compatible" />
+        <module name="dubbo-spring-boot-externalized-configuration-consumer-sample" />
+        <module name="dubbo-spring-boot-externalized-configuration-provider-sample" />
+        <module name="dubbo-spring-boot-registry-nacos-consumer-sample" />
+        <module name="dubbo-spring-boot-registry-nacos-provider-sample" />
+        <module name="dubbo-spring-boot-registry-zookeeper-consumer-sample" />
+        <module name="dubbo-spring-boot-registry-zookeeper-provider-sample" />
+        <module name="dubbo-spring-boot-sample-api" />
+        <module name="dubbo-spring-boot-starter" />
+        <module name="hadoop-aliyun" />
+        <module name="hadoop-annotations" />
+        <module name="hadoop-archive-logs" />
+        <module name="hadoop-archives" />
+        <module name="hadoop-assemblies" />
+        <module name="hadoop-auth" />
+        <module name="hadoop-auth-examples" />
+        <module name="hadoop-aws" />
+        <module name="hadoop-azure" />
+        <module name="hadoop-azure-datalake" />
+        <module name="hadoop-build-tools" />
+        <module name="hadoop-client" />
+        <module name="hadoop-client-api" />
+        <module name="hadoop-client-integration-tests" />
+        <module name="hadoop-client-minicluster" />
+        <module name="hadoop-client-runtime" />
+        <module name="hadoop-cloud-storage" />
+        <module name="hadoop-common" />
+        <module name="hadoop-datajoin" />
+        <module name="hadoop-dist" />
+        <module name="hadoop-distcp" />
+        <module name="hadoop-dynamometer-blockgen" />
+        <module name="hadoop-dynamometer-dist" />
+        <module name="hadoop-dynamometer-infra" />
+        <module name="hadoop-dynamometer-workload" />
+        <module name="hadoop-extras" />
+        <module name="hadoop-fs2img" />
+        <module name="hadoop-gridmix" />
+        <module name="hadoop-hdfs" />
+        <module name="hadoop-hdfs-client" />
+        <module name="hadoop-hdfs-httpfs" />
+        <module name="hadoop-hdfs-native-client" />
+        <module name="hadoop-hdfs-nfs" />
+        <module name="hadoop-hdfs-rbf" />
+        <module name="hadoop-kafka" />
+        <module name="hadoop-kms" />
+        <module name="hadoop-mapreduce-client-app" />
+        <module name="hadoop-mapreduce-client-common" />
+        <module name="hadoop-mapreduce-client-core" />
+        <module name="hadoop-mapreduce-client-hs" />
+        <module name="hadoop-mapreduce-client-hs-plugins" />
+        <module name="hadoop-mapreduce-client-jobclient" />
+        <module name="hadoop-mapreduce-client-nativetask" />
+        <module name="hadoop-mapreduce-client-shuffle" />
+        <module name="hadoop-mapreduce-client-uploader" />
+        <module name="hadoop-mapreduce-examples" />
+        <module name="hadoop-maven-plugins" />
+        <module name="hadoop-minicluster" />
+        <module name="hadoop-minikdc" />
+        <module name="hadoop-nfs" />
+        <module name="hadoop-openstack" />
+        <module name="hadoop-registry" />
+        <module name="hadoop-resourceestimator" />
+        <module name="hadoop-rumen" />
+        <module name="hadoop-sls" />
+        <module name="hadoop-streaming" />
+        <module name="hadoop-tools-dist" />
+        <module name="hadoop-yarn-api" />
+        <module name="hadoop-yarn-applications-catalog-webapp" />
+        <module name="hadoop-yarn-applications-distributedshell" />
+        <module name="hadoop-yarn-applications-mawo-core" />
+        <module name="hadoop-yarn-applications-unmanaged-am-launcher" />
+        <module name="hadoop-yarn-client" />
+        <module name="hadoop-yarn-common" />
+        <module name="hadoop-yarn-csi" />
+        <module name="hadoop-yarn-registry" />
+        <module name="hadoop-yarn-server-applicationhistoryservice" />
+        <module name="hadoop-yarn-server-common" />
+        <module name="hadoop-yarn-server-nodemanager" />
+        <module name="hadoop-yarn-server-resourcemanager" />
+        <module name="hadoop-yarn-server-router" />
+        <module name="hadoop-yarn-server-sharedcachemanager" />
+        <module name="hadoop-yarn-server-tests" />
+        <module name="hadoop-yarn-server-timeline-pluginstorage" />
+        <module name="hadoop-yarn-server-timelineservice" />
+        <module name="hadoop-yarn-server-timelineservice-documentstore" />
+        <module name="hadoop-yarn-server-timelineservice-hbase-client" />
+        <module name="hadoop-yarn-server-timelineservice-hbase-common" />
+        <module name="hadoop-yarn-server-timelineservice-hbase-server-1" />
+        <module name="hadoop-yarn-server-timelineservice-hbase-tests" />
+        <module name="hadoop-yarn-server-web-proxy" />
+        <module name="hadoop-yarn-services-api" />
+        <module name="hadoop-yarn-services-core" />
+        <module name="hive-accumulo-handler" />
+        <module name="hive-beeline" />
+        <module name="hive-classification" />
+        <module name="hive-cli" />
+        <module name="hive-common" />
+        <module name="hive-contrib" />
+        <module name="hive-druid-handler" />
+        <module name="hive-exec" />
+        <module name="hive-hbase-handler" />
+        <module name="hive-hcatalog-core" />
+        <module name="hive-hcatalog-pig-adapter" />
+        <module name="hive-hcatalog-server-extensions" />
+        <module name="hive-hcatalog-streaming" />
+        <module name="hive-hplsql" />
+        <module name="hive-jdbc" />
+        <module name="hive-jdbc-handler" />
+        <module name="hive-kryo-registrator" />
+        <module name="hive-kudu-handler" />
+        <module name="hive-llap-client" />
+        <module name="hive-llap-common" />
+        <module name="hive-llap-ext-client" />
+        <module name="hive-llap-server" />
+        <module name="hive-llap-tez" />
+        <module name="hive-metastore" />
+        <module name="hive-metastore-benchmarks" />
+        <module name="hive-pre-upgrade" />
+        <module name="hive-serde" />
+        <module name="hive-service" />
+        <module name="hive-service-rpc" />
+        <module name="hive-shims" />
+        <module name="hive-shims-0.23" />
+        <module name="hive-shims-common" />
+        <module name="hive-shims-scheduler" />
+        <module name="hive-spark-client" />
+        <module name="hive-standalone-metastore-common" />
+        <module name="hive-standalone-metastore-server" />
+        <module name="hive-storage-api" />
+        <module name="hive-streaming" />
+        <module name="hive-testutils" />
+        <module name="hive-vector-code-gen" />
+        <module name="hive-webhcat" />
+        <module name="hive-webhcat-java-client" />
+        <module name="kafka-handler" />
+        <module name="maven-dependency-plugin" />
+        <module name="metastore-tools-common" />
+        <module name="rocketmq-acl" />
+        <module name="rocketmq-broker" />
+        <module name="rocketmq-client" />
+        <module name="rocketmq-common" />
+        <module name="rocketmq-example" />
+        <module name="rocketmq-filter" />
+        <module name="rocketmq-logappender" />
+        <module name="rocketmq-logging" />
+        <module name="rocketmq-namesrv" />
+        <module name="rocketmq-openmessaging" />
+        <module name="rocketmq-remoting" />
+        <module name="rocketmq-srvutil" />
+        <module name="rocketmq-store" />
+        <module name="rocketmq-test" />
+        <module name="rocketmq-tools" />
+        <module name="samples-aspectj" />
+        <module name="samples-guice" />
+        <module name="samples-jaxrs" />
+        <module name="samples-quickstart" />
+        <module name="samples-quickstart-guice" />
+        <module name="samples-servlet-plugin" />
+        <module name="samples-sprhib" />
+        <module name="samples-spring" />
+        <module name="samples-spring-boot" />
+        <module name="samples-spring-boot-web" />
+        <module name="samples-spring-client" />
+        <module name="samples-spring-mvc" />
+        <module name="samples-web" />
+        <module name="shiro-aspectj" />
+        <module name="shiro-cache" />
+        <module name="shiro-cas" />
+        <module name="shiro-config-core" />
+        <module name="shiro-config-ogdl" />
+        <module name="shiro-core" />
+        <module name="shiro-crypto-cipher" />
+        <module name="shiro-crypto-core" />
+        <module name="shiro-crypto-hash" />
+        <module name="shiro-ehcache" />
+        <module name="shiro-event" />
+        <module name="shiro-guice" />
+        <module name="shiro-hazelcast" />
+        <module name="shiro-its-guice3" />
+        <module name="shiro-its-guice4" />
+        <module name="shiro-its-support" />
+        <module name="shiro-jaxrs" />
+        <module name="shiro-lang" />
+        <module name="shiro-quartz" />
+        <module name="shiro-servlet-plugin" />
+        <module name="shiro-spring" />
+        <module name="shiro-spring-boot-starter" />
+        <module name="shiro-spring-boot-web-starter" />
+        <module name="shiro-tools-hasher" />
+        <module name="shiro-web" />
+        <module name="zookeeper" />
+        <module name="zookeeper-docs" />
+        <module name="zookeeper-jute" />
+        <module name="zookeeper-prometheus-metrics" />
+        <module name="zookeeper-recipes-election" />
+        <module name="zookeeper-recipes-lock" />
+        <module name="zookeeper-recipes-queue" />
+      </profile>
+      <profile name="Annotation profile for Apache Log4j 2" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo" />
+        <module name="dubbo-cluster" />
+        <module name="dubbo-common" />
+        <module name="dubbo-compatible" />
+        <module name="dubbo-maven-address-plugin" />
+        <module name="dubbo-samples-annotation" />
+        <module name="dubbo-samples-api" />
+        <module name="dubbo-samples-attachment" />
+        <module name="dubbo-samples-basic" />
+        <module name="dubbo-samples-cache" />
+        <module name="dubbo-samples-callback" />
+        <module name="dubbo-samples-compatible" />
+        <module name="dubbo-samples-consul" />
+        <module name="dubbo-samples-context" />
+        <module name="dubbo-samples-direct" />
+        <module name="dubbo-samples-docker" />
+        <module name="dubbo-samples-echo" />
+        <module name="dubbo-samples-environment-keys" />
+        <module name="dubbo-samples-group" />
+        <module name="dubbo-samples-http" />
+        <module name="dubbo-samples-jetty" />
+        <module name="dubbo-samples-local" />
+        <module name="dubbo-samples-metrics" />
+        <module name="dubbo-samples-mock" />
+        <module name="dubbo-samples-monitor" />
+        <module name="dubbo-samples-multi-registry" />
+        <module name="dubbo-samples-notify" />
+        <module name="dubbo-samples-rest" />
+        <module name="dubbo-samples-scala" />
+        <module name="dubbo-samples-sentinel" />
+        <module name="dubbo-samples-spi-compatible" />
+        <module name="dubbo-samples-spring-boot-hystrix" />
+        <module name="dubbo-samples-spring-hystrix" />
+        <module name="dubbo-samples-stub" />
+        <module name="dubbo-samples-switch-serialization-thread" />
+        <module name="dubbo-samples-validation" />
+        <module name="dubbo-samples-version" />
+        <module name="dubbo-samples-zipkin" />
+        <module name="dubbo-samples-zookeeper" />
+        <module name="log4j-1.2-api" />
+        <module name="log4j-api" />
+        <module name="log4j-appserver" />
+        <module name="log4j-cassandra" />
+        <module name="log4j-core" />
+        <module name="log4j-core-its" />
+        <module name="log4j-couchdb" />
+        <module name="log4j-csv" />
+        <module name="log4j-docker" />
+        <module name="log4j-flume-ng" />
+        <module name="log4j-iostreams" />
+        <module name="log4j-jcl" />
+        <module name="log4j-jdbc" />
+        <module name="log4j-jdbc-dbcp2" />
+        <module name="log4j-jeromq" />
+        <module name="log4j-jms" />
+        <module name="log4j-jmx-gui" />
+        <module name="log4j-jpa" />
+        <module name="log4j-jul" />
+        <module name="log4j-kafka" />
+        <module name="log4j-layout-jackson" />
+        <module name="log4j-layout-jackson-json" />
+        <module name="log4j-layout-jackson-xml" />
+        <module name="log4j-layout-jackson-yaml" />
+        <module name="log4j-liquibase" />
+        <module name="log4j-mongodb2" />
+        <module name="log4j-mongodb3" />
+        <module name="log4j-osgi" />
+        <module name="log4j-perf" />
+        <module name="log4j-plugins" />
+        <module name="log4j-slf4j-impl" />
+        <module name="log4j-slf4j18-impl" />
+        <module name="log4j-smtp" />
+        <module name="log4j-taglib" />
+        <module name="log4j-to-slf4j" />
+        <module name="log4j-web" />
+      </profile>
+      <profile name="Annotation profile for dubbo-parent" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-config-api" />
+        <module name="dubbo-config-spring" />
+        <module name="dubbo-configcenter-api" />
+        <module name="dubbo-configcenter-apollo" />
+        <module name="dubbo-configcenter-consul" />
+        <module name="dubbo-configcenter-etcd" />
+        <module name="dubbo-configcenter-nacos" />
+        <module name="dubbo-configcenter-zookeeper" />
+        <module name="dubbo-container-api" />
+        <module name="dubbo-container-log4j" />
+        <module name="dubbo-container-logback" />
+        <module name="dubbo-container-spring" />
+        <module name="dubbo-demo-interface" />
+        <module name="dubbo-filter-cache" />
+        <module name="dubbo-filter-validation" />
+        <module name="dubbo-metadata-definition" />
+        <module name="dubbo-metadata-definition-protobuf" />
+        <module name="dubbo-metadata-report-api" />
+        <module name="dubbo-metadata-report-consul" />
+        <module name="dubbo-metadata-report-etcd" />
+        <module name="dubbo-metadata-report-nacos" />
+        <module name="dubbo-metadata-report-redis" />
+        <module name="dubbo-metadata-report-zookeeper" />
+        <module name="dubbo-monitor-api" />
+        <module name="dubbo-monitor-default" />
+        <module name="dubbo-qos" />
+        <module name="dubbo-registry-api" />
+        <module name="dubbo-registry-consul" />
+        <module name="dubbo-registry-default" />
+        <module name="dubbo-registry-etcd3" />
+        <module name="dubbo-registry-multicast" />
+        <module name="dubbo-registry-multiple" />
+        <module name="dubbo-registry-nacos" />
+        <module name="dubbo-registry-redis" />
+        <module name="dubbo-registry-sofa" />
+        <module name="dubbo-registry-zookeeper" />
+        <module name="dubbo-remoting-api" />
+        <module name="dubbo-remoting-etcd3" />
+        <module name="dubbo-remoting-grizzly" />
+        <module name="dubbo-remoting-http" />
+        <module name="dubbo-remoting-mina" />
+        <module name="dubbo-remoting-netty" />
+        <module name="dubbo-remoting-netty4" />
+        <module name="dubbo-remoting-p2p" />
+        <module name="dubbo-remoting-zookeeper" />
+        <module name="dubbo-rpc-api" />
+        <module name="dubbo-rpc-dubbo" />
+        <module name="dubbo-rpc-hessian" />
+        <module name="dubbo-rpc-http" />
+        <module name="dubbo-rpc-injvm" />
+        <module name="dubbo-rpc-jsonrpc" />
+        <module name="dubbo-rpc-memcached" />
+        <module name="dubbo-rpc-native-thrift" />
+        <module name="dubbo-rpc-redis" />
+        <module name="dubbo-rpc-rest" />
+        <module name="dubbo-rpc-rmi" />
+        <module name="dubbo-rpc-thrift" />
+        <module name="dubbo-rpc-webservice" />
+        <module name="dubbo-rpc-xml" />
+        <module name="dubbo-samples-applevel-override" />
+        <module name="dubbo-samples-async-generated-future" />
+        <module name="dubbo-samples-async-onerror" />
+        <module name="dubbo-samples-async-original-future" />
+        <module name="dubbo-samples-async-provider" />
+        <module name="dubbo-samples-async-simple" />
+        <module name="dubbo-samples-chain-api" />
+        <module name="dubbo-samples-chain-backend" />
+        <module name="dubbo-samples-chain-front" />
+        <module name="dubbo-samples-chain-middle" />
+        <module name="dubbo-samples-configcenter-annotation" />
+        <module name="dubbo-samples-configcenter-api" />
+        <module name="dubbo-samples-configcenter-apollo" />
+        <module name="dubbo-samples-configcenter-externalconfiguration" />
+        <module name="dubbo-samples-configcenter-multi-registries" />
+        <module name="dubbo-samples-configcenter-multiprotocol" />
+        <module name="dubbo-samples-configcenter-xml" />
+        <module name="dubbo-samples-configconditionrouter" />
+        <module name="dubbo-samples-edas-consumer" />
+        <module name="dubbo-samples-edas-provider" />
+        <module name="dubbo-samples-generic-type" />
+        <module name="dubbo-samples-merge-api" />
+        <module name="dubbo-samples-merge-consumer" />
+        <module name="dubbo-samples-merge-provider1" />
+        <module name="dubbo-samples-merge-provider2" />
+        <module name="dubbo-samples-metadata-report-configcenter" />
+        <module name="dubbo-samples-metadata-report-local-annotation" />
+        <module name="dubbo-samples-metadata-report-local-properties" />
+        <module name="dubbo-samples-metadata-report-local-xml" />
+        <module name="dubbo-samples-nacos-conditionrouter" />
+        <module name="dubbo-samples-nacos-configcenter" />
+        <module name="dubbo-samples-nacos-override" />
+        <module name="dubbo-samples-nacos-registry" />
+        <module name="dubbo-samples-nacos-tagrouter" />
+        <module name="dubbo-samples-protostuff-api" />
+        <module name="dubbo-samples-protostuff-consumer" />
+        <module name="dubbo-samples-protostuff-provider" />
+        <module name="dubbo-samples-resilience4j-filter" />
+        <module name="dubbo-samples-resilience4j-springboot2" />
+        <module name="dubbo-samples-serialization-java" />
+        <module name="dubbo-samples-servicelevel-override" />
+        <module name="dubbo-samples-simplified-registry-annotation" />
+        <module name="dubbo-samples-simplified-registry-nosimple" />
+        <module name="dubbo-samples-simplified-registry-properties" />
+        <module name="dubbo-samples-simplified-registry-xml" />
+        <module name="dubbo-samples-tagrouter" />
+        <module name="dubbo-samples-thrift-api" />
+        <module name="dubbo-samples-thrift-impl" />
+        <module name="dubbo-serialization-api" />
+        <module name="dubbo-serialization-avro" />
+        <module name="dubbo-serialization-fastjson" />
+        <module name="dubbo-serialization-fst" />
+        <module name="dubbo-serialization-gson" />
+        <module name="dubbo-serialization-hessian2" />
+        <module name="dubbo-serialization-jdk" />
+        <module name="dubbo-serialization-kryo" />
+        <module name="dubbo-serialization-native-hession" />
+        <module name="dubbo-serialization-protobuf-json" />
+        <module name="dubbo-serialization-protostuff" />
+        <module name="dubbo-serialization-test" />
+        <module name="log4j-samples-configuration" />
+        <module name="log4j-samples-flume-common" />
+        <module name="log4j-samples-flume-embedded" />
+        <module name="log4j-samples-flume-remote" />
+        <module name="log4j-samples-loggerProperties" />
+        <module name="log4j-spring-cloud-config-client" />
+      </profile>
+      <profile name="Annotation profile for dubbo-samples-all" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-samples-generic-call-api" />
+        <module name="dubbo-samples-generic-call-consumer" />
+        <module name="dubbo-samples-generic-call-provider" />
+        <module name="dubbo-samples-generic-impl-api" />
+        <module name="dubbo-samples-generic-impl-consumer" />
+        <module name="dubbo-samples-generic-impl-provider" />
+        <module name="log4j-spring-cloud-config-sample-server" />
+        <module name="sample-app" />
+      </profile>
+      <profile name="Annotation profile for dubbo-demo-api-consumer" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-api-consumer" />
+      </profile>
+      <profile name="Annotation profile for dubbo-demo-api-provider" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-api-provider" />
+      </profile>
+      <profile name="Annotation profile for dubbo-demo-xml-consumer" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-xml-consumer" />
+      </profile>
+      <profile name="Annotation profile for dubbo-demo-xml-provider" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-xml-provider" />
+      </profile>
+      <profile name="Annotation profile for dubbo-demo-annotation-consumer" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-annotation-consumer" />
+      </profile>
+      <profile name="Annotation profile for dubbo-demo-annotation-provider" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-annotation-provider" />
+      </profile>
+      <profile name="Annotation profile for dubbo-samples-transaction" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-samples-transaction" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commons-dbcp2" target="1.8" />
+      <module name="commons-io" target="1.8" />
+      <module name="dubbo" target="1.7" />
+      <module name="dubbo-bom" target="1.7" />
+      <module name="dubbo-cluster" target="1.7" />
+      <module name="dubbo-common" target="1.7" />
+      <module name="dubbo-compatible" target="1.7" />
+      <module name="dubbo-config" target="1.7" />
+      <module name="dubbo-config-api" target="1.7" />
+      <module name="dubbo-config-spring" target="1.7" />
+      <module name="dubbo-configcenter" target="1.7" />
+      <module name="dubbo-configcenter-api" target="1.7" />
+      <module name="dubbo-configcenter-apollo" target="1.7" />
+      <module name="dubbo-configcenter-consul" target="1.7" />
+      <module name="dubbo-configcenter-etcd" target="1.7" />
+      <module name="dubbo-configcenter-nacos" target="1.7" />
+      <module name="dubbo-configcenter-zookeeper" target="1.7" />
+      <module name="dubbo-container" target="1.7" />
+      <module name="dubbo-container-api" target="1.7" />
+      <module name="dubbo-container-log4j" target="1.7" />
+      <module name="dubbo-container-logback" target="1.7" />
+      <module name="dubbo-container-spring" target="1.7" />
+      <module name="dubbo-demo" target="1.7" />
+      <module name="dubbo-demo-annotation" target="1.7" />
+      <module name="dubbo-demo-annotation-consumer" target="1.7" />
+      <module name="dubbo-demo-annotation-provider" target="1.7" />
+      <module name="dubbo-demo-api" target="1.7" />
+      <module name="dubbo-demo-api-consumer" target="1.7" />
+      <module name="dubbo-demo-api-provider" target="1.7" />
+      <module name="dubbo-demo-interface" target="1.7" />
+      <module name="dubbo-demo-xml" target="1.7" />
+      <module name="dubbo-demo-xml-consumer" target="1.7" />
+      <module name="dubbo-demo-xml-provider" target="1.7" />
+      <module name="dubbo-dependencies" target="1.7" />
+      <module name="dubbo-dependencies-bom" target="1.7" />
+      <module name="dubbo-dependencies-zookeeper" target="1.7" />
+      <module name="dubbo-distribution" target="1.7" />
+      <module name="dubbo-filter" target="1.7" />
+      <module name="dubbo-filter-cache" target="1.7" />
+      <module name="dubbo-filter-validation" target="1.7" />
+      <module name="dubbo-maven-address-plugin" target="1.5" />
+      <module name="dubbo-metadata-definition" target="1.7" />
+      <module name="dubbo-metadata-definition-protobuf" target="1.7" />
+      <module name="dubbo-metadata-report" target="1.7" />
+      <module name="dubbo-metadata-report-api" target="1.7" />
+      <module name="dubbo-metadata-report-consul" target="1.7" />
+      <module name="dubbo-metadata-report-etcd" target="1.7" />
+      <module name="dubbo-metadata-report-nacos" target="1.7" />
+      <module name="dubbo-metadata-report-redis" target="1.7" />
+      <module name="dubbo-metadata-report-zookeeper" target="1.7" />
+      <module name="dubbo-monitor" target="1.7" />
+      <module name="dubbo-monitor-api" target="1.7" />
+      <module name="dubbo-monitor-default" target="1.7" />
+      <module name="dubbo-parent" target="1.7" />
+      <module name="dubbo-plugin" target="1.7" />
+      <module name="dubbo-qos" target="1.7" />
+      <module name="dubbo-registry" target="1.7" />
+      <module name="dubbo-registry-api" target="1.7" />
+      <module name="dubbo-registry-consul" target="1.7" />
+      <module name="dubbo-registry-default" target="1.7" />
+      <module name="dubbo-registry-etcd3" target="1.7" />
+      <module name="dubbo-registry-multicast" target="1.7" />
+      <module name="dubbo-registry-multiple" target="1.7" />
+      <module name="dubbo-registry-nacos" target="1.7" />
+      <module name="dubbo-registry-redis" target="1.7" />
+      <module name="dubbo-registry-sofa" target="1.7" />
+      <module name="dubbo-registry-zookeeper" target="1.7" />
+      <module name="dubbo-remoting" target="1.7" />
+      <module name="dubbo-remoting-api" target="1.7" />
+      <module name="dubbo-remoting-etcd3" target="1.7" />
+      <module name="dubbo-remoting-grizzly" target="1.7" />
+      <module name="dubbo-remoting-http" target="1.7" />
+      <module name="dubbo-remoting-mina" target="1.7" />
+      <module name="dubbo-remoting-netty" target="1.7" />
+      <module name="dubbo-remoting-netty4" target="1.7" />
+      <module name="dubbo-remoting-p2p" target="1.7" />
+      <module name="dubbo-remoting-zookeeper" target="1.7" />
+      <module name="dubbo-rpc" target="1.7" />
+      <module name="dubbo-rpc-api" target="1.7" />
+      <module name="dubbo-rpc-dubbo" target="1.7" />
+      <module name="dubbo-rpc-hessian" target="1.7" />
+      <module name="dubbo-rpc-http" target="1.7" />
+      <module name="dubbo-rpc-injvm" target="1.7" />
+      <module name="dubbo-rpc-jsonrpc" target="1.7" />
+      <module name="dubbo-rpc-memcached" target="1.7" />
+      <module name="dubbo-rpc-native-thrift" target="1.7" />
+      <module name="dubbo-rpc-redis" target="1.7" />
+      <module name="dubbo-rpc-rest" target="1.7" />
+      <module name="dubbo-rpc-rmi" target="1.7" />
+      <module name="dubbo-rpc-thrift" target="1.7" />
+      <module name="dubbo-rpc-webservice" target="1.7" />
+      <module name="dubbo-rpc-xml" target="1.8" />
+      <module name="dubbo-samples-all" target="1.5" />
+      <module name="dubbo-samples-annotation" target="1.5" />
+      <module name="dubbo-samples-api" target="1.5" />
+      <module name="dubbo-samples-applevel-override" target="1.5" />
+      <module name="dubbo-samples-async" target="1.5" />
+      <module name="dubbo-samples-async-generated-future" target="1.5" />
+      <module name="dubbo-samples-async-onerror" target="1.5" />
+      <module name="dubbo-samples-async-original-future" target="1.5" />
+      <module name="dubbo-samples-async-provider" target="1.5" />
+      <module name="dubbo-samples-async-simple" target="1.5" />
+      <module name="dubbo-samples-attachment" target="1.5" />
+      <module name="dubbo-samples-basic" target="1.5" />
+      <module name="dubbo-samples-cache" target="1.5" />
+      <module name="dubbo-samples-callback" target="1.5" />
+      <module name="dubbo-samples-chain" target="1.5" />
+      <module name="dubbo-samples-chain-api" target="1.5" />
+      <module name="dubbo-samples-chain-backend" target="1.5" />
+      <module name="dubbo-samples-chain-front" target="1.5" />
+      <module name="dubbo-samples-chain-middle" target="1.5" />
+      <module name="dubbo-samples-compatible" target="1.5" />
+      <module name="dubbo-samples-configcenter" target="1.5" />
+      <module name="dubbo-samples-configcenter-annotation" target="1.5" />
+      <module name="dubbo-samples-configcenter-api" target="1.5" />
+      <module name="dubbo-samples-configcenter-apollo" target="1.5" />
+      <module name="dubbo-samples-configcenter-externalconfiguration" target="1.5" />
+      <module name="dubbo-samples-configcenter-multi-registries" target="1.5" />
+      <module name="dubbo-samples-configcenter-multiprotocol" target="1.5" />
+      <module name="dubbo-samples-configcenter-xml" target="1.5" />
+      <module name="dubbo-samples-configconditionrouter" target="1.5" />
+      <module name="dubbo-samples-consul" target="1.5" />
+      <module name="dubbo-samples-context" target="1.5" />
+      <module name="dubbo-samples-direct" target="1.5" />
+      <module name="dubbo-samples-docker" target="1.5" />
+      <module name="dubbo-samples-echo" target="1.5" />
+      <module name="dubbo-samples-edas" target="1.5" />
+      <module name="dubbo-samples-edas-consumer" target="1.5" />
+      <module name="dubbo-samples-edas-provider" target="1.5" />
+      <module name="dubbo-samples-environment-keys" target="1.5" />
+      <module name="dubbo-samples-generic" target="1.5" />
+      <module name="dubbo-samples-generic-call" target="1.5" />
+      <module name="dubbo-samples-generic-call-api" target="1.5" />
+      <module name="dubbo-samples-generic-call-consumer" target="1.5" />
+      <module name="dubbo-samples-generic-call-provider" target="1.5" />
+      <module name="dubbo-samples-generic-impl" target="1.5" />
+      <module name="dubbo-samples-generic-impl-api" target="1.5" />
+      <module name="dubbo-samples-generic-impl-consumer" target="1.5" />
+      <module name="dubbo-samples-generic-impl-provider" target="1.5" />
+      <module name="dubbo-samples-generic-type" target="1.5" />
+      <module name="dubbo-samples-governance" target="1.5" />
+      <module name="dubbo-samples-group" target="1.5" />
+      <module name="dubbo-samples-http" target="1.5" />
+      <module name="dubbo-samples-jetty" target="1.7" />
+      <module name="dubbo-samples-local" target="1.5" />
+      <module name="dubbo-samples-merge" target="1.5" />
+      <module name="dubbo-samples-merge-api" target="1.5" />
+      <module name="dubbo-samples-merge-consumer" target="1.5" />
+      <module name="dubbo-samples-merge-provider1" target="1.5" />
+      <module name="dubbo-samples-merge-provider2" target="1.5" />
+      <module name="dubbo-samples-metadata-report" target="1.5" />
+      <module name="dubbo-samples-metadata-report-configcenter" target="1.5" />
+      <module name="dubbo-samples-metadata-report-local-annotation" target="1.5" />
+      <module name="dubbo-samples-metadata-report-local-properties" target="1.5" />
+      <module name="dubbo-samples-metadata-report-local-xml" target="1.5" />
+      <module name="dubbo-samples-metrics" target="1.5" />
+      <module name="dubbo-samples-mock" target="1.5" />
+      <module name="dubbo-samples-monitor" target="1.5" />
+      <module name="dubbo-samples-multi-registry" target="1.5" />
+      <module name="dubbo-samples-nacos" target="1.5" />
+      <module name="dubbo-samples-nacos-conditionrouter" target="1.5" />
+      <module name="dubbo-samples-nacos-configcenter" target="1.5" />
+      <module name="dubbo-samples-nacos-override" target="1.5" />
+      <module name="dubbo-samples-nacos-registry" target="1.5" />
+      <module name="dubbo-samples-nacos-tagrouter" target="1.5" />
+      <module name="dubbo-samples-notify" target="1.5" />
+      <module name="dubbo-samples-protostuff" target="1.5" />
+      <module name="dubbo-samples-protostuff-api" target="1.5" />
+      <module name="dubbo-samples-protostuff-consumer" target="1.5" />
+      <module name="dubbo-samples-protostuff-provider" target="1.5" />
+      <module name="dubbo-samples-resilience4j" target="1.5" />
+      <module name="dubbo-samples-resilience4j-filter" target="1.5" />
+      <module name="dubbo-samples-resilience4j-springboot2" target="1.5" />
+      <module name="dubbo-samples-rest" target="1.5" />
+      <module name="dubbo-samples-scala" target="1.5" />
+      <module name="dubbo-samples-sentinel" target="1.5" />
+      <module name="dubbo-samples-serialization" target="1.5" />
+      <module name="dubbo-samples-serialization-java" target="1.5" />
+      <module name="dubbo-samples-servicelevel-override" target="1.5" />
+      <module name="dubbo-samples-simplified-registry" target="1.5" />
+      <module name="dubbo-samples-simplified-registry-annotation" target="1.5" />
+      <module name="dubbo-samples-simplified-registry-nosimple" target="1.5" />
+      <module name="dubbo-samples-simplified-registry-properties" target="1.5" />
+      <module name="dubbo-samples-simplified-registry-xml" target="1.5" />
+      <module name="dubbo-samples-spi-compatible" target="1.5" />
+      <module name="dubbo-samples-spring-boot-hystrix" target="1.5" />
+      <module name="dubbo-samples-spring-hystrix" target="1.5" />
+      <module name="dubbo-samples-stub" target="1.5" />
+      <module name="dubbo-samples-switch-serialization-thread" target="1.5" />
+      <module name="dubbo-samples-tagrouter" target="1.5" />
+      <module name="dubbo-samples-thrift" target="1.5" />
+      <module name="dubbo-samples-thrift-api" target="1.5" />
+      <module name="dubbo-samples-thrift-impl" target="1.5" />
+      <module name="dubbo-samples-transaction" target="1.5" />
+      <module name="dubbo-samples-validation" target="1.5" />
+      <module name="dubbo-samples-version" target="1.5" />
+      <module name="dubbo-samples-zipkin" target="1.5" />
+      <module name="dubbo-samples-zookeeper" target="1.5" />
+      <module name="dubbo-serialization" target="1.7" />
+      <module name="dubbo-serialization-api" target="1.7" />
+      <module name="dubbo-serialization-avro" target="1.7" />
+      <module name="dubbo-serialization-fastjson" target="1.7" />
+      <module name="dubbo-serialization-fst" target="1.7" />
+      <module name="dubbo-serialization-gson" target="1.7" />
+      <module name="dubbo-serialization-hessian2" target="1.7" />
+      <module name="dubbo-serialization-jdk" target="1.7" />
+      <module name="dubbo-serialization-kryo" target="1.7" />
+      <module name="dubbo-serialization-native-hession" target="1.7" />
+      <module name="dubbo-serialization-protobuf-json" target="1.7" />
+      <module name="dubbo-serialization-protostuff" target="1.7" />
+      <module name="dubbo-serialization-test" target="1.7" />
+      <module name="dubbo-spring-boot-actuator" target="1.8" />
+      <module name="dubbo-spring-boot-actuator-compatible" target="1.8" />
+      <module name="dubbo-spring-boot-auto-configure-consumer-sample" target="1.8" />
+      <module name="dubbo-spring-boot-auto-configure-provider-sample" target="1.8" />
+      <module name="dubbo-spring-boot-auto-configure-samples" target="1.8" />
+      <module name="dubbo-spring-boot-autoconfigure" target="1.8" />
+      <module name="dubbo-spring-boot-autoconfigure-compatible" target="1.8" />
+      <module name="dubbo-spring-boot-compatible" target="1.8" />
+      <module name="dubbo-spring-boot-distribution" target="1.8" />
+      <module name="dubbo-spring-boot-externalized-configuration-consumer-sample" target="1.8" />
+      <module name="dubbo-spring-boot-externalized-configuration-provider-sample" target="1.8" />
+      <module name="dubbo-spring-boot-externalized-configuration-samples" target="1.8" />
+      <module name="dubbo-spring-boot-parent" target="1.8" />
+      <module name="dubbo-spring-boot-project" target="1.6" />
+      <module name="dubbo-spring-boot-registry-nacos-consumer-sample" target="1.8" />
+      <module name="dubbo-spring-boot-registry-nacos-provider-sample" target="1.8" />
+      <module name="dubbo-spring-boot-registry-nacos-samples" target="1.8" />
+      <module name="dubbo-spring-boot-registry-zookeeper-consumer-sample" target="1.8" />
+      <module name="dubbo-spring-boot-registry-zookeeper-provider-sample" target="1.8" />
+      <module name="dubbo-spring-boot-registry-zookeeper-samples" target="1.8" />
+      <module name="dubbo-spring-boot-sample-api" target="1.8" />
+      <module name="dubbo-spring-boot-samples" target="1.8" />
+      <module name="dubbo-spring-boot-starter" target="1.8" />
+      <module name="hadoop-aliyun" target="1.5" />
+      <module name="hadoop-annotations" target="1.5" />
+      <module name="hadoop-archive-logs" target="1.5" />
+      <module name="hadoop-archives" target="1.5" />
+      <module name="hadoop-assemblies" target="1.5" />
+      <module name="hadoop-auth" target="1.5" />
+      <module name="hadoop-auth-examples" target="1.5" />
+      <module name="hadoop-aws" target="1.5" />
+      <module name="hadoop-azure" target="1.5" />
+      <module name="hadoop-azure-datalake" target="1.5" />
+      <module name="hadoop-build-tools" target="1.5" />
+      <module name="hadoop-client" target="1.5" />
+      <module name="hadoop-client-api" target="1.5" />
+      <module name="hadoop-client-check-invariants" target="1.5" />
+      <module name="hadoop-client-check-test-invariants" target="1.5" />
+      <module name="hadoop-client-integration-tests" target="1.5" />
+      <module name="hadoop-client-minicluster" target="1.5" />
+      <module name="hadoop-client-modules" target="1.5" />
+      <module name="hadoop-client-runtime" target="1.5" />
+      <module name="hadoop-cloud-storage" target="1.5" />
+      <module name="hadoop-cloud-storage-project" target="1.5" />
+      <module name="hadoop-common" target="1.5" />
+      <module name="hadoop-common-project" target="1.5" />
+      <module name="hadoop-datajoin" target="1.5" />
+      <module name="hadoop-dist" target="1.5" />
+      <module name="hadoop-distcp" target="1.5" />
+      <module name="hadoop-dynamometer" target="1.5" />
+      <module name="hadoop-dynamometer-blockgen" target="1.5" />
+      <module name="hadoop-dynamometer-dist" target="1.5" />
+      <module name="hadoop-dynamometer-infra" target="1.5" />
+      <module name="hadoop-dynamometer-workload" target="1.5" />
+      <module name="hadoop-extras" target="1.5" />
+      <module name="hadoop-fs2img" target="1.5" />
+      <module name="hadoop-gridmix" target="1.5" />
+      <module name="hadoop-hdfs" target="1.5" />
+      <module name="hadoop-hdfs-client" target="1.5" />
+      <module name="hadoop-hdfs-httpfs" target="1.5" />
+      <module name="hadoop-hdfs-native-client" target="1.5" />
+      <module name="hadoop-hdfs-nfs" target="1.5" />
+      <module name="hadoop-hdfs-project" target="1.5" />
+      <module name="hadoop-hdfs-rbf" target="1.5" />
+      <module name="hadoop-kafka" target="1.5" />
+      <module name="hadoop-kms" target="1.5" />
+      <module name="hadoop-main" target="1.5" />
+      <module name="hadoop-mapreduce" target="1.5" />
+      <module name="hadoop-mapreduce-client" target="1.5" />
+      <module name="hadoop-mapreduce-client-app" target="1.5" />
+      <module name="hadoop-mapreduce-client-common" target="1.5" />
+      <module name="hadoop-mapreduce-client-core" target="1.5" />
+      <module name="hadoop-mapreduce-client-hs" target="1.5" />
+      <module name="hadoop-mapreduce-client-hs-plugins" target="1.5" />
+      <module name="hadoop-mapreduce-client-jobclient" target="1.5" />
+      <module name="hadoop-mapreduce-client-nativetask" target="1.5" />
+      <module name="hadoop-mapreduce-client-shuffle" target="1.5" />
+      <module name="hadoop-mapreduce-client-uploader" target="1.5" />
+      <module name="hadoop-mapreduce-examples" target="1.5" />
+      <module name="hadoop-maven-plugins" target="1.5" />
+      <module name="hadoop-minicluster" target="1.5" />
+      <module name="hadoop-minikdc" target="1.5" />
+      <module name="hadoop-nfs" target="1.5" />
+      <module name="hadoop-openstack" target="1.5" />
+      <module name="hadoop-pipes" target="1.5" />
+      <module name="hadoop-project" target="1.5" />
+      <module name="hadoop-project-dist" target="1.5" />
+      <module name="hadoop-registry" target="1.5" />
+      <module name="hadoop-resourceestimator" target="1.5" />
+      <module name="hadoop-rumen" target="1.5" />
+      <module name="hadoop-sls" target="1.5" />
+      <module name="hadoop-streaming" target="1.5" />
+      <module name="hadoop-tools" target="1.5" />
+      <module name="hadoop-tools-dist" target="1.5" />
+      <module name="hadoop-yarn" target="1.5" />
+      <module name="hadoop-yarn-api" target="1.5" />
+      <module name="hadoop-yarn-applications" target="1.5" />
+      <module name="hadoop-yarn-applications-catalog" target="1.5" />
+      <module name="hadoop-yarn-applications-catalog-docker" target="1.5" />
+      <module name="hadoop-yarn-applications-catalog-webapp" target="1.5" />
+      <module name="hadoop-yarn-applications-distributedshell" target="1.5" />
+      <module name="hadoop-yarn-applications-mawo" target="1.5" />
+      <module name="hadoop-yarn-applications-mawo-core" target="1.5" />
+      <module name="hadoop-yarn-applications-unmanaged-am-launcher" target="1.5" />
+      <module name="hadoop-yarn-client" target="1.5" />
+      <module name="hadoop-yarn-common" target="1.5" />
+      <module name="hadoop-yarn-csi" target="1.5" />
+      <module name="hadoop-yarn-project" target="1.5" />
+      <module name="hadoop-yarn-registry" target="1.5" />
+      <module name="hadoop-yarn-server" target="1.5" />
+      <module name="hadoop-yarn-server-applicationhistoryservice" target="1.5" />
+      <module name="hadoop-yarn-server-common" target="1.5" />
+      <module name="hadoop-yarn-server-nodemanager" target="1.5" />
+      <module name="hadoop-yarn-server-resourcemanager" target="1.5" />
+      <module name="hadoop-yarn-server-router" target="1.5" />
+      <module name="hadoop-yarn-server-sharedcachemanager" target="1.5" />
+      <module name="hadoop-yarn-server-tests" target="1.5" />
+      <module name="hadoop-yarn-server-timeline-pluginstorage" target="1.5" />
+      <module name="hadoop-yarn-server-timelineservice" target="1.5" />
+      <module name="hadoop-yarn-server-timelineservice-documentstore" target="1.5" />
+      <module name="hadoop-yarn-server-timelineservice-hbase" target="1.5" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-client" target="1.5" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-common" target="1.5" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-server" target="1.5" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-server-1" target="1.5" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-tests" target="1.5" />
+      <module name="hadoop-yarn-server-web-proxy" target="1.5" />
+      <module name="hadoop-yarn-services" target="1.5" />
+      <module name="hadoop-yarn-services-api" target="1.5" />
+      <module name="hadoop-yarn-services-core" target="1.5" />
+      <module name="hadoop-yarn-site" target="1.5" />
+      <module name="hadoop-yarn-ui" target="1.5" />
+      <module name="hive" target="1.8" />
+      <module name="hive-accumulo-handler" target="1.8" />
+      <module name="hive-beeline" target="1.8" />
+      <module name="hive-classification" target="1.8" />
+      <module name="hive-cli" target="1.8" />
+      <module name="hive-common" target="1.8" />
+      <module name="hive-contrib" target="1.8" />
+      <module name="hive-druid-handler" target="1.8" />
+      <module name="hive-exec" target="1.8" />
+      <module name="hive-hbase-handler" target="1.8" />
+      <module name="hive-hcatalog" target="1.8" />
+      <module name="hive-hcatalog-core" target="1.8" />
+      <module name="hive-hcatalog-pig-adapter" target="1.8" />
+      <module name="hive-hcatalog-server-extensions" target="1.8" />
+      <module name="hive-hcatalog-streaming" target="1.8" />
+      <module name="hive-hplsql" target="1.8" />
+      <module name="hive-jdbc" target="1.8" />
+      <module name="hive-jdbc-handler" target="1.8" />
+      <module name="hive-kryo-registrator" target="1.8" />
+      <module name="hive-kudu-handler" target="1.8" />
+      <module name="hive-llap-client" target="1.8" />
+      <module name="hive-llap-common" target="1.8" />
+      <module name="hive-llap-ext-client" target="1.8" />
+      <module name="hive-llap-server" target="1.8" />
+      <module name="hive-llap-tez" target="1.8" />
+      <module name="hive-metastore" target="1.8" />
+      <module name="hive-metastore-benchmarks" target="1.8" />
+      <module name="hive-metastore-tools" target="1.8" />
+      <module name="hive-packaging" target="1.8" />
+      <module name="hive-pre-upgrade" target="1.8" />
+      <module name="hive-serde" target="1.8" />
+      <module name="hive-service" target="1.8" />
+      <module name="hive-service-rpc" target="1.8" />
+      <module name="hive-shims" target="1.8" />
+      <module name="hive-shims-0.23" target="1.8" />
+      <module name="hive-shims-aggregator" target="1.8" />
+      <module name="hive-shims-common" target="1.8" />
+      <module name="hive-shims-scheduler" target="1.8" />
+      <module name="hive-spark-client" target="1.8" />
+      <module name="hive-standalone-metastore" target="1.8" />
+      <module name="hive-standalone-metastore-common" target="1.8" />
+      <module name="hive-standalone-metastore-server" target="1.8" />
+      <module name="hive-storage-api" target="1.6" />
+      <module name="hive-streaming" target="1.8" />
+      <module name="hive-testutils" target="1.8" />
+      <module name="hive-upgrade-acid" target="1.8" />
+      <module name="hive-vector-code-gen" target="1.8" />
+      <module name="hive-webhcat" target="1.8" />
+      <module name="hive-webhcat-java-client" target="1.8" />
+      <module name="kafka-handler" target="1.8" />
+      <module name="log4j" target="1.8" />
+      <module name="log4j-1.2-api" target="1.8" />
+      <module name="log4j-api" target="1.8" />
+      <module name="log4j-api-java9" target="1.8" />
+      <module name="log4j-appserver" target="1.8" />
+      <module name="log4j-bom" target="1.7" />
+      <module name="log4j-cassandra" target="1.8" />
+      <module name="log4j-core" target="1.8" />
+      <module name="log4j-core-its" target="1.8" />
+      <module name="log4j-core-java9" target="1.8" />
+      <module name="log4j-couchdb" target="1.8" />
+      <module name="log4j-csv" target="1.8" />
+      <module name="log4j-docker" target="1.8" />
+      <module name="log4j-flume-ng" target="1.8" />
+      <module name="log4j-iostreams" target="1.8" />
+      <module name="log4j-jcl" target="1.8" />
+      <module name="log4j-jdbc" target="1.8" />
+      <module name="log4j-jdbc-dbcp2" target="1.8" />
+      <module name="log4j-jeromq" target="1.8" />
+      <module name="log4j-jms" target="1.8" />
+      <module name="log4j-jmx-gui" target="1.8" />
+      <module name="log4j-jpa" target="1.8" />
+      <module name="log4j-jul" target="1.8" />
+      <module name="log4j-kafka" target="1.8" />
+      <module name="log4j-layout-jackson" target="1.8" />
+      <module name="log4j-layout-jackson-json" target="1.8" />
+      <module name="log4j-layout-jackson-xml" target="1.8" />
+      <module name="log4j-layout-jackson-yaml" target="1.8" />
+      <module name="log4j-liquibase" target="1.8" />
+      <module name="log4j-mongodb2" target="1.8" />
+      <module name="log4j-mongodb3" target="1.8" />
+      <module name="log4j-osgi" target="1.8" />
+      <module name="log4j-perf" target="1.8" />
+      <module name="log4j-plugins" target="1.8" />
+      <module name="log4j-plugins-java9" target="1.8" />
+      <module name="log4j-samples" target="1.8" />
+      <module name="log4j-samples-configuration" target="1.8" />
+      <module name="log4j-samples-flume-common" target="1.8" />
+      <module name="log4j-samples-flume-embedded" target="1.8" />
+      <module name="log4j-samples-flume-remote" target="1.8" />
+      <module name="log4j-samples-loggerProperties" target="1.8" />
+      <module name="log4j-slf4j-impl" target="1.8" />
+      <module name="log4j-slf4j18-impl" target="1.8" />
+      <module name="log4j-smtp" target="1.8" />
+      <module name="log4j-spring-cloud-config" target="1.8" />
+      <module name="log4j-spring-cloud-config-client" target="1.8" />
+      <module name="log4j-spring-cloud-config-sample-server" target="1.5" />
+      <module name="log4j-spring-cloud-config-samples" target="1.8" />
+      <module name="log4j-taglib" target="1.8" />
+      <module name="log4j-to-slf4j" target="1.8" />
+      <module name="log4j-web" target="1.8" />
+      <module name="maven-dependency-plugin" target="1.6" />
+      <module name="metastore-tools-common" target="1.8" />
+      <module name="parent" target="1.8" />
+      <module name="rocketmq-acl" target="1.8" />
+      <module name="rocketmq-all" target="1.8" />
+      <module name="rocketmq-broker" target="1.8" />
+      <module name="rocketmq-client" target="1.6" />
+      <module name="rocketmq-common" target="1.6" />
+      <module name="rocketmq-distribution" target="1.8" />
+      <module name="rocketmq-example" target="1.8" />
+      <module name="rocketmq-filter" target="1.8" />
+      <module name="rocketmq-logappender" target="1.8" />
+      <module name="rocketmq-logging" target="1.6" />
+      <module name="rocketmq-namesrv" target="1.8" />
+      <module name="rocketmq-openmessaging" target="1.8" />
+      <module name="rocketmq-remoting" target="1.6" />
+      <module name="rocketmq-srvutil" target="1.8" />
+      <module name="rocketmq-store" target="1.8" />
+      <module name="rocketmq-test" target="1.8" />
+      <module name="rocketmq-tools" target="1.8" />
+      <module name="sample-app" target="1.8" />
+      <module name="samples-aspectj" target="1.8" />
+      <module name="samples-guice" target="1.8" />
+      <module name="samples-jaxrs" target="1.8" />
+      <module name="samples-quickstart" target="1.8" />
+      <module name="samples-quickstart-guice" target="1.8" />
+      <module name="samples-servlet-plugin" target="1.8" />
+      <module name="samples-sprhib" target="1.8" />
+      <module name="samples-spring" target="1.8" />
+      <module name="samples-spring-boot" target="1.8" />
+      <module name="samples-spring-boot-web" target="1.8" />
+      <module name="samples-spring-client" target="1.8" />
+      <module name="samples-spring-mvc" target="1.8" />
+      <module name="samples-web" target="1.8" />
+      <module name="shiro-all" target="1.8" />
+      <module name="shiro-aspectj" target="1.8" />
+      <module name="shiro-cache" target="1.8" />
+      <module name="shiro-cas" target="1.8" />
+      <module name="shiro-config" target="1.8" />
+      <module name="shiro-config-core" target="1.8" />
+      <module name="shiro-config-ogdl" target="1.8" />
+      <module name="shiro-core" target="1.8" />
+      <module name="shiro-crypto" target="1.8" />
+      <module name="shiro-crypto-cipher" target="1.8" />
+      <module name="shiro-crypto-core" target="1.8" />
+      <module name="shiro-crypto-hash" target="1.8" />
+      <module name="shiro-ehcache" target="1.8" />
+      <module name="shiro-event" target="1.8" />
+      <module name="shiro-features" target="1.8" />
+      <module name="shiro-guice" target="1.8" />
+      <module name="shiro-hazelcast" target="1.8" />
+      <module name="shiro-integration-tests" target="1.8" />
+      <module name="shiro-its-guice3" target="1.8" />
+      <module name="shiro-its-guice4" target="1.8" />
+      <module name="shiro-its-support" target="1.8" />
+      <module name="shiro-jaxrs" target="1.8" />
+      <module name="shiro-lang" target="1.8" />
+      <module name="shiro-quartz" target="1.8" />
+      <module name="shiro-root" target="1.8" />
+      <module name="shiro-samples" target="1.8" />
+      <module name="shiro-servlet-plugin" target="1.8" />
+      <module name="shiro-spring" target="1.8" />
+      <module name="shiro-spring-boot" target="1.8" />
+      <module name="shiro-spring-boot-starter" target="1.8" />
+      <module name="shiro-spring-boot-web-starter" target="1.8" />
+      <module name="shiro-support" target="1.8" />
+      <module name="shiro-test-coverage" target="1.8" />
+      <module name="shiro-tools" target="1.8" />
+      <module name="shiro-tools-hasher" target="1.8" />
+      <module name="shiro-web" target="1.8" />
+      <module name="zookeeper" target="1.8" />
+      <module name="zookeeper-assembly" target="1.8" />
+      <module name="zookeeper-client" target="1.8" />
+      <module name="zookeeper-docs" target="1.8" />
+      <module name="zookeeper-jute" target="1.8" />
+      <module name="zookeeper-metrics-providers" target="1.8" />
+      <module name="zookeeper-prometheus-metrics" target="1.8" />
+      <module name="zookeeper-recipes" target="1.8" />
+      <module name="zookeeper-recipes-election" target="1.8" />
+      <module name="zookeeper-recipes-lock" target="1.8" />
+      <module name="zookeeper-recipes-queue" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

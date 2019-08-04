@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hadoop-yarn-applications-catalog-webapp:war exploded">
+    <output-path>$PROJECT_DIR$/hadoop-trunk/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-catalog/hadoop-yarn-applications-catalog-webapp/target/app</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>hadoop-yarn-applications-catalog-webapp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hadoop-yarn-applications-catalog-webapp" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/hadoop-trunk/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-catalog/hadoop-yarn-applications-catalog-webapp/target/app/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="hadoop-yarn-applications-catalog-webapp/web/Web" />
+    </root>
+  </artifact>
+</component>

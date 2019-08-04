@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-samples-master/dubbo-samples-rest" />
+    <file type="web" url="file://$PROJECT_DIR$/hadoop-trunk/hadoop-common-project/hadoop-auth-examples" />
+    <file type="web" url="file://$PROJECT_DIR$/hadoop-trunk/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-catalog/hadoop-yarn-applications-catalog-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/logging-log4j2-master/log4j-samples/log4j-samples-flume-embedded" />
+    <file type="web" url="file://$PROJECT_DIR$/logging-log4j2-master/log4j-samples/log4j-samples-flume-remote" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-master/integration-tests/guice3" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-master/integration-tests/guice4" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-master/samples/guice" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-master/samples/jaxrs" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-master/samples/servlet-plugin" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-master/samples/spring-hibernate" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-master/samples/spring-mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro-master/samples/web" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/commons-dbcp-master/pom.xml" />
+        <option value="$PROJECT_DIR$/commons-io-master/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-master/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-samples-master/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-spring-boot-project-master/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoop-trunk/pom.xml" />
+        <option value="$PROJECT_DIR$/hive-master/pom.xml" />
+        <option value="$PROJECT_DIR$/logging-log4j2-master/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-dependency-plugin-master/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-master/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-master/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper-master/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

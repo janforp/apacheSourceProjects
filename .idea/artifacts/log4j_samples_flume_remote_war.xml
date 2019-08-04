@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="log4j-samples-flume-remote:war">
+    <output-path>$PROJECT_DIR$/logging-log4j2-master/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>log4j-samples-flume-remote</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="logging-parent-1.war">
+      <element id="artifact" artifact-name="log4j-samples-flume-remote:war exploded" />
+    </root>
+  </artifact>
+</component>

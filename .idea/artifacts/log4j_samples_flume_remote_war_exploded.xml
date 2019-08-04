@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="log4j-samples-flume-remote:war exploded">
+    <output-path>$PROJECT_DIR$/logging-log4j2-master/target/logging-parent-1</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>log4j-samples-flume-remote</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="log4j-samples-flume-remote" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/logging-log4j2-master/target/logging-parent-1/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="log4j-samples-flume-remote/web/Web" />
+    </root>
+  </artifact>
+</component>
